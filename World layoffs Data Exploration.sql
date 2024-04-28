@@ -1,5 +1,5 @@
 -- Data Exploration
--- Here we are jsut going to explore the data and find trends or patterns or anything interesting
+-- Here we are just going to explore the data and find trends or patterns or anything interesting
 
 select * from layoffs_prep2;
 
